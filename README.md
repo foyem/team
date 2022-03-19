@@ -32,5 +32,6 @@ Print out the team‘s players to check they were all properly added.
 •	adds the game object to your team‘s games array.
 9.	Invoke your addGame method on three games and print the team‘s updated games array.
 okay
+Added 2
 
 
